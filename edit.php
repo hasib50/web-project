@@ -55,5 +55,6 @@ if (isset($_POST['update'])) {
     </form>
     <br>
     <a href="index.php">Back to List</a>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae molestiae dicta doloremque quos esse. Tempore alias minima repellendus, fugiat quasi eaque, reiciendis, amet voluptates iure nam reprehenderit nostrum perspiciatis sint.
 </body>
 </html>
